@@ -9,3 +9,4 @@ This readme file contains what each script is doing
 - ls_cwd_content contains the commands to write the output of 'ls -la' to a file
 - 9-duplicate_last_line duplicates the last line of a file
 - 10-no_more_js deletes all files with a .js extension
+- 11-directories prints the number of all the directories
