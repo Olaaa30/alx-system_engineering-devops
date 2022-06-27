@@ -6,3 +6,6 @@ This readme file contains what each script is doing
 - 4-lastlines prints the last ten lines of a specified file
 - 5-firstlines prints the first ten lines of a given file
 - 6-third_line prints the third line of a file
+- ls_cwd_content contains the commands to write the output of 'ls -la' to a file
+- 9-duplicate_last_line duplicates the last line of a file
+- 10-no_more_js deletes all files with a .js extension
